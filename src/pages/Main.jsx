@@ -83,8 +83,6 @@ function Main() {
             </>
           )
           }
-          
-          
         </div>
     </div>
    </main>

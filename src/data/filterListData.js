@@ -6,27 +6,27 @@ const filterListData=[
     },
     {
         _id:2,
-        name:'RPG',
+        name:'Insecureweb',
         active:false,
     },
     {
         _id:3,
-        name:'MOBA',
+        name:'Scrut',
         active:false,
     },
     {
         _id:4,
-        name:'Battle',
+        name:'Notion',
         active:false,
     },
     {
         _id:5,
-        name:'Racing',
+        name:'Workspace',
         active:false, 
     },
     {
         _id:6,
-        name:'Fighting',
+        name:'Slack',
         active:false,
     },
 ];
